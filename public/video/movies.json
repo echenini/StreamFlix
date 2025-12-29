@@ -1,0 +1,5 @@
+[
+  { "id": "1", "title": "Inception", "video": "/video/movie1.mp4", "poster": "/cover/bmw.jpg", "duration": "2h 28m", "genre": "Sci-Fi" },
+  { "id": "2", "title": "The Dark Knight", "video": "/video/TheDarkKnight.mp4", "poster": "/video/darkknight.jpg", "duration": "2h 32m", "genre": "Action" },
+  { "id": "3", "title": "Interstellar", "video": "/video/Interstellar.mp4", "poster": "/video/interstellar.jpg", "duration": "2h 49m", "genre": "Sci-Fi" }
+]
